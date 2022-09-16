@@ -9,7 +9,8 @@
 <img = align = "center" alt = "PYTHON" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img = align = "center" alt = "JAVASCRIPT" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div<br/>
-Estudante de análise e desenvolvimento de sistemas, atualmente no segundo período.
+
+  Estudante de análise e desenvolvimento de sistemas, atualmente no segundo período.
 
 
 
