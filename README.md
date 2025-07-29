@@ -29,14 +29,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabriel457&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel457&theme=radical"/>
 </p>
 
 ---
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINK)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-gabriel-do-nascimento-fernandes-b51685243/)  
 - 🌐 [Portfólio](https://seuportfolio.dev)  
 - ✉️ gabriel@email.com
