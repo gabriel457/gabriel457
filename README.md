@@ -10,9 +10,9 @@
 ### 📘 Sobre mim
 
 - 🔭 Atualmente estudando **Flutter, Node.js e MySQL**
-- 🌱 Aprendendo também sobre **Docker e AWS**
+- 🌱 Aprendendo também sobre **Docker e Linux**
 - 🎯 Buscando minha primeira vaga como desenvolvedor
-- 💬 Me pergunte sobre qualquer coisa envolvendo programação!
+- 💬 Apaixonado por programação!
 
 ---
 
@@ -39,4 +39,4 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-gabriel-do-nascimento-fernandes-b51685243/)  
 - 🌐 [Portfólio](https://seuportfolio.dev)  
-- ✉️ gabriel@email.com
+- ✉️ jgfernandes206@gmail.com
